@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<kisiler>
+<kisi>
+	<id>1</id>
+	<isim>Abdulkerim</isim>
+        <soyisim>Kavanoz</soyisim>
+	<sifre>6161</sifre>
+	<bolum>Bilgisayar Mühendisliği</bolum>
+	<sinif>1</sinif>
+	<kitapsayisi>0</kitapsayisi>
+</kisi>
+<kisi>
+	<id>2</id>
+	<isim>Mert</isim>
+        <soyisim>Koç</soyisim>
+	<sifre>2323</sifre>
+	<bolum>Bilgisayar Mühendisliği</bolum>
+	<sinif>1</sinif>
+	<kitapsayisi>0</kitapsayisi>
+</kisi>
+<kisi>
+	<id>3</id>
+	<isim>Halilİbrahim</isim>
+        <soyisim>Kosak</soyisim>
+	<sifre>3333</sifre>
+	<bolum>Bilgisayar Mühendisliği</bolum>
+	<sinif>1</sinif>
+	<kitapsayisi>0</kitapsayisi>
+</kisi>
+<kisi>
+	<id>4</id>
+	<isim>MertHalil</isim>
+        <soyisim>Nar</soyisim>
+	<sifre>3636</sifre>
+	<bolum>Bilgisayar Mühendisliği</bolum>
+	<sinif>1</sinif>
+	<kitapsayisi>0</kitapsayisi>
+</kisi>
+<kisi>
+	<id>5</id>
+	<isim>Adil</isim>
+        <soyisim>Aytan</soyisim>
+	<sifre>2020</sifre>
+	<bolum>Tıp Mühendisliği</bolum>
+	<sinif>4</sinif>
+	<kitapsayisi>0</kitapsayisi>
+</kisi>
+<kisi>
+	<id>6</id>
+	<isim>AliYavuz</isim>
+        <soyisim>İncehasan</soyisim>
+	<sifre>6161</sifre>
+	<bolum>Elektrik - Elektronik Mühendisliği</bolum>
+	<sinif>1</sinif>
+	<kitapsayisi>0</kitapsayisi>
+</kisi>
+</kisiler>

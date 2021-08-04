@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<kitaplar>
+<kitap>
+    <barkod>1</barkod>
+    <isim>Java Programlama Dili</isim>
+    <yazar>Mehmet Kirazlı</yazar>
+    <tur>Yazılım</tur>
+    <yayinyili>2013</yayinyili>
+    <dili>Türkçe</dili>
+    <sayfasayisi>654</sayfasayisi>
+    <stok>var</stok>
+    <alankisiid>yok</alankisiid>
+    <tarih>null</tarih>
+ </kitap>
+<kitap>
+    <barkod>2</barkod>
+    <isim>Her Yönüyle C</isim>
+    <yazar>Tevfik Kızılören</yazar>
+    <tur>Yazılım</tur>
+    <yayinyili>2012</yayinyili>
+    <dili>Türkçe</dili>
+    <sayfasayisi>640</sayfasayisi>
+    <stok>var</stok>
+    <alankisiid>yok</alankisiid>
+    <tarih>null</tarih>
+  </kitap>
+<kitap>
+    <barkod>3</barkod>
+    <isim>Wireshark ile Network Analiz</isim>
+    <yazar>Yunus Bölükbaş</yazar>
+    <tur>Siber Güvenlik</tur>
+    <yayinyili>2017</yayinyili>
+    <dili>Türkçe</dili>
+    <sayfasayisi>171</sayfasayisi>
+    <stok>var</stok>
+    <alankisiid>yok</alankisiid>
+    <tarih>null</tarih>
+  </kitap>
+<kitap>
+    <barkod>4</barkod>
+    <isim>Ethical Hacking</isim>
+    <yazar>Ömer Çıtak</yazar>
+    <tur>Siber Güvenlik</tur>
+    <yayinyili>2016</yayinyili>
+    <dili>Türkçe</dili>
+    <sayfasayisi>256</sayfasayisi>
+    <stok>var</stok>
+    <alankisiid>yok</alankisiid>
+    <tarih>null</tarih>
+  </kitap>
+<kitap>
+    <barkod>5</barkod>
+    <isim>Yazılım Güvenliği</isim>
+    <yazar>Bünyamin Demir</yazar>
+    <tur>Siber Güvenlik</tur>
+    <yayinyili>2013</yayinyili>
+    <dili>Türkçe</dili>
+    <sayfasayisi>423</sayfasayisi>
+    <stok>var</stok>
+    <alankisiid>yok</alankisiid>
+    <tarih>null</tarih>
+  </kitap>
+<kitap>
+    <barkod>6</barkod>
+    <isim>Genel Kimya</isim>
+    <yazar>Sabri Alpaydın</yazar>
+    <tur>Kimya</tur>
+    <yayinyili>2017</yayinyili>
+    <dili>Türkçe</dili>
+    <sayfasayisi>444</sayfasayisi>
+    <stok>var</stok>
+    <alankisiid>yok</alankisiid>
+    <tarih>null</tarih>
+  </kitap>
+<kitap>
+    <barkod>7</barkod>
+    <isim>Steve Jobs</isim>
+    <yazar>Walter Isaacson</yazar>
+    <tur>Biyografi</tur>
+    <yayinyili>2011</yayinyili>
+    <dili>İngilizce</dili>
+    <sayfasayisi>547</sayfasayisi>
+    <stok>var</stok>
+    <alankisiid>yok</alankisiid>
+    <tarih>null</tarih>
+  </kitap>
+<kitap>
+    <barkod>8</barkod>
+    <isim>Büyük Patlamadan Karadeliklere</isim>
+    <yazar>Stephan Hawking</yazar>
+    <tur>Bilim</tur>
+    <yayinyili>1988</yayinyili>
+    <dili>İngilizce</dili>
+    <sayfasayisi>256</sayfasayisi>
+    <stok>var</stok>
+    <alankisiid>yok</alankisiid>
+    <tarih>null</tarih>
+  </kitap>
+<kitap>
+    <barkod>9</barkod>
+    <isim>Fahrenheit 451</isim>
+    <yazar>Ray Bradbury</yazar>
+    <tur>Roman</tur>
+    <yayinyili>1953</yayinyili>
+    <dili>İngilizce</dili>
+    <sayfasayisi>256</sayfasayisi>
+    <stok>var</stok>
+    <alankisiid>yok</alankisiid>
+    <tarih>null</tarih>
+  </kitap>
+<kitap>
+    <barkod>10</barkod>
+    <isim>Kürt Mantolu Madonna</isim>
+    <yazar>Sabahattin Ali</yazar>
+    <tur>Roman</tur>
+    <yayinyili>1943</yayinyili>
+    <dili>Türkçe</dili>
+    <sayfasayisi>177</sayfasayisi>
+    <stok>var</stok>
+    <alankisiid>yok</alankisiid>
+    <tarih>null</tarih>
+  </kitap>
+<kitap>
+    <barkod>11</barkod>
+    <isim>Kızıl Saçlılar Kulübü</isim>
+    <yazar>Arthur Conan Doyle</yazar>
+    <tur>Gizem</tur>
+    <yayinyili>1981</yayinyili>
+    <dili>Türkçe</dili>
+    <sayfasayisi>310</sayfasayisi>
+    <stok>var</stok>
+    <alankisiid>yok</alankisiid>
+    <tarih>null</tarih>
+  </kitap>
+</kitaplar>
